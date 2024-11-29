@@ -1,0 +1,2 @@
+# Activity-25
+SOLID PRINCIPLES
